@@ -20,7 +20,7 @@ Our experiments over $4$ real-world datasets demonstrate that KWF addresses the 
 captures the attributes’ attractiveness, while significantly improving existing models.
 
 <!-- #### Paper link: [TP-GCN: Dynamic Network Representation Learning for Graph and Node Classification](https://XXX) -->
-![framework](https://github.com/wangyifeibeijing/KWF/tree/main/Images/KWF_structure.pdf "The structure of Knowledge-wedging Frame work")
+![framework](https://github.com/wangyifeibeijing/KWF/tree/main/Images/KWF.png "The structure of Knowledge-wedging Frame work")
 ## Datasets
 
 * [Amazon-book](http://jmcauley.ucsd.edu/data/amazon)
