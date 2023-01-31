@@ -19,7 +19,7 @@ We also introduce the Knowledge Refinement (KR) objective to capture the attribu
 Our experiments over $4$ real-world datasets demonstrate that KWF addresses the ineffectual representation phenomenon, 
 captures the attributes’ attractiveness, while significantly improving existing models.
 
-![image](https://github.com/wangyifeibeijing/KWF/blob/main/Images/KWF.png "The structure of Knowledge-wedging Frame work")
+![image](Images/KWF.png "The structure of Knowledge-wedging Frame work")
 ## Datasets
 
 * [Amazon-book](http://jmcauley.ucsd.edu/data/amazon)
