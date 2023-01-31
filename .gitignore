@@ -71,7 +71,6 @@ coverage.xml
 *.bbl
 *.blg
 *.out
-*.pdf
 *.synctex.gz
 local_settings.py
 db.sqlite3
