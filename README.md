@@ -67,12 +67,11 @@ python -u main.py --model_type baseline --dataset movie-lens --gpu_id 0 --ue_lam
 
 ```{txt}
 optional arguments:
-  --dataset                       dataset
-  --ue_lambda                                 
-  --idf_sampling
-  --layer_size
-  --embed_size
-  --epoch
-  --pretrain
-  --batch_size
+  --dataset                       dataset                               
+  --idf_sampling                  negative entity number
+  --layer_size                    size of each layer
+  --embed_size                    dimension of embedding vector 
+  --epoch                         max epochs before stop
+  --pretrain                      use pretrain or not
+  --batch_size                    batch size
 ```
